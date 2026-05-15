@@ -7,7 +7,7 @@
  * actualiza la UI cada segundo y genera alertas cuando
  * los valores están fuera del rango seguro (30-220 BPM).
  */
-
+kjngfijaijg
 (function() {
     'use strict';
 
